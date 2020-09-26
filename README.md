@@ -2,7 +2,7 @@
 
 Graphing videogame sales from kaggle using 2016 dataset with chart.js
 
-![alt text](/Screen Shot 2020-09-25 at 8.01.57 PM.png)
+![alt text](https://github.com/jacobjulagay/Videogamesales-Visualizer/blob/master/Screen%20Shot%202020-09-25%20at%208.01.57%20PM.png)
 
 # Technologies 
 - HTML
