@@ -1,8 +1,8 @@
 # Videogamesales-Visualizer
 
-Showing videogame sales from kaggle using 2016 dataset. 
+Graphing videogame sales from kaggle using 2016 dataset with chart.js
 
-# Technologies used 
+# Technologies 
 - HTML
 - Javascript
 - Chart.js (https://www.chartjs.org/)
