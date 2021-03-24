@@ -1,4 +1,4 @@
-# Videogamesales-Visualizer
+## About the Project
 
 Graphing videogame sales from kaggle using 2016 dataset with chart.js
 
